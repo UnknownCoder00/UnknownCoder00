@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnknownCoder00
-- 💞️ I’m looking to collaborate on any projects.
+- I’m looking to collaborate on any projects.
 
 
 
