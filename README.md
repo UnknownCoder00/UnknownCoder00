@@ -35,9 +35,9 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true&background=0a192f)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=151515&title_color=3b82f6&icon_color=3b82f6&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=0a192f&title_color=3b82f6&icon_color=3b82f6&text_bold=false&text_color=9e9e9e)
 
 
 <!---
