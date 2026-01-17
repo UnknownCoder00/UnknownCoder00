@@ -36,15 +36,15 @@
 <h3>My GitHub contributions summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true&background=0a192f" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true&background=0a192f" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=0a192f&title_color=3b82f6&icon_color=3b82f6&text_color=9e9e9e" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=0a192f&title_color=3b82f6&icon_color=3b82f6&text_color=9e9e9e" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UnknownCoder00&layout=compact&hide_border=true&bg_color=0a192f&title_color=3b82f6&text_color=9e9e9e" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder00&layout=compact&hide_border=true&bg_color=0a192f&title_color=3b82f6&text_color=9e9e9e" alt="Top Languages" />
 </p>
 
 <!---
