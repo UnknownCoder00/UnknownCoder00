@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Piolo Acosta
-- I’m looking to collaborate on any projects.
+- 👋 Hi, I'm Piolo Acosta
+- I'm looking to collaborate on any projects.
 
 ![](https://komarev.com/ghpvc/?username=UnknownCoder00)
 
@@ -7,7 +7,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -35,10 +35,11 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true&background=0a192f)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=UnknownCoder00&theme=dark&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&hide_border=true&background=0a192f)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=0a192f&title_color=3b82f6&icon_color=3b82f6&text_bold=false&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnknownCoder00&hide_border=true&show_icons=true&bg_color=0a192f&title_color=3b82f6&icon_color=3b82f6&text_color=9e9e9e&hide_title=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder00&layout=compact&hide_border=true&bg_color=0a192f&title_color=3b82f6&text_color=9e9e9e)
 
 <!---
 UnknownCoder00/UnknownCoder00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
